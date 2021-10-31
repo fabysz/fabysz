@@ -14,7 +14,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/6b/96/27/6b96278c1ecc12abb9aaea4b10dd093e.gif">
 </div>
   
-  ##
+  ##.
  
 <div> 
   <a href="https://www.instagram.com/biazitaalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
