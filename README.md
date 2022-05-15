@@ -1,5 +1,5 @@
 # Olá, eu sou a Fabiana Alves
-🚀Estou Estudando Análise de Desenvolvimento de Sistemas na UNISANTOS
+🚀Estou Estudando Análise de Desenvolvimento de Sistemas na FACULDADE DESCOMPLICA
 
 <div align="center">
   <a href="https://github.com/fabysz">
